@@ -54,6 +54,8 @@ export default function Home() {
             />
             Deploy now
           </a>
+          <p>I am docs</p>
+
           <a
             href="https://turborepo.dev/docs?utm_source"
             target="_blank"
